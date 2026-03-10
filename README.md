@@ -13,8 +13,6 @@
 
 Source code: [github.com/NeoSkillFactory/ts-jest-test-generator](https://github.com/NeoSkillFactory/ts-jest-test-generator)
 
-**Price suggestion:** $27 USD
-
 ## License
 
 MIT © NeoSkillFactory
